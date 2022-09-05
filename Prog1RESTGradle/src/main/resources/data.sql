@@ -1,0 +1,1 @@
+insert into Vehicle values(23,'Lamborghini' , 'White');
